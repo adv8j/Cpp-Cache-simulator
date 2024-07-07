@@ -88,6 +88,3 @@ Address: 9abc, Set: 5, Hit, Tag: 9
 Address: 5678, Set: 3, Hit, Tag: 5
 ```
 
-## Report
-Please refer to the attached `report.pdf` for a detailed report on the coding approach and testing strategies.
-
